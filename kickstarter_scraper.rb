@@ -15,5 +15,5 @@ def create_project_hash
     } 
   end 
   
-  
+  projects
 end
